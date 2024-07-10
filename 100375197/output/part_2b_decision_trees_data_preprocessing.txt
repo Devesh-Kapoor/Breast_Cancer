@@ -1,0 +1,15 @@
+Dataset: Breast Cancer Wisconsin Data Set
+Number of cases removed:9
+Cases:278
+Attributes:9
+
+Class: 2
+age: 6
+menopause: 3
+tumor_size: 11
+inv_nodes: 7
+node_caps: 2
+deg_malig: 3
+breast: 2
+breast_quad: 5
+irradiat: 2
